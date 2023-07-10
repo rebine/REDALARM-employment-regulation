@@ -1,7 +1,7 @@
 # REDALARM-employment-regulation
 REDALARM Company Limited. Employment regulation
 
-合同会社REDALARMで運用中の就業規則です。
+合同会社REDALARMで<!-- 運用中の就業規則です。 -->策定中の社則です。2023年8月1日より施行予定。
 
 <p xmlns:dct="http://purl.org/dc/terms/">
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
